@@ -1,0 +1,5 @@
+prompt: مرد با کت مشکی در حال خرید چای ایرانی در بازار اصفهان
+captions: ['A man wearing a black coat standing in a public space.', 'A close-up of traditional Iranian tea leaves displayed for sale.', 'A bustling market scene in Isfahan with various stalls and shoppers.']
+final retrieved paths: ['datasets/Man in black suit buying Iranian tea at Isfahan bazaar/6635677254986921010.jpg', 'datasets/Man in black suit buying Iranian tea at Isfahan bazaar/6531306547517926577.jpg', 'datasets/Man in black suit buying Iranian tea at Isfahan bazaar/2158602243245756928.jpg']
+prompt_w_retreival: According to these images of A man wearing a black coat standing in a public space.: <img><|image_1|></img>, A close-up of traditional Iranian tea leaves displayed for sale.: <img><|image_2|></img>, A bustling market scene in Isfahan with various stalls and shoppers.: <img><|image_3|></img>, generate A man in a black coat buying Iranian tea at the Isfahan bazaar.. Please keep some extra open space in the image for further editing
+running OmniGen, will save result to: results/Man in black suit buying Iranian tea at Isfahan bazaar_gs_2.5_im_gs_1.6.png

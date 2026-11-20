@@ -1,0 +1,1 @@
+[{"tool": "move", "input": "person child", "box": [0.18, 0.56, 0.08, 0.23]}, {"tool": "instruction", "input": "Place a small ball in the boy's hands so he is clearly holding it."}, {"tool": "remove", "input": "dog"}]

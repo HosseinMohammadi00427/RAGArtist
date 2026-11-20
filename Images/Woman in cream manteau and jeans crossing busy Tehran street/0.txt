@@ -1,0 +1,5 @@
+prompt: زن با مانتوی کرم و شلوار جین، در حال عبور از خیابان شلوغ تهران
+captions: ['A woman wearing a cream-colored manteau standing in a city environment.', 'A pair of blue jeans displayed on a plain background.', 'A busy street scene in Tehran with cars and pedestrians.']
+final retrieved paths: ['datasets/Woman in cream manteau and jeans crossing busy Tehran street/706066305084727245.jpg', 'datasets/Woman in cream manteau and jeans crossing busy Tehran street/-8161335352599109426.jpg', 'datasets/Woman in cream manteau and jeans crossing busy Tehran street/-2046559437344239964.jpg']
+prompt_w_retreival: According to these images of A woman wearing a cream-colored manteau standing in a city environment.: <img><|image_1|></img>, A pair of blue jeans displayed on a plain background.: <img><|image_2|></img>, A busy street scene in Tehran with cars and pedestrians.: <img><|image_3|></img>, generate A woman in a beige coat and jeans crossing a busy street in Tehran.. Please keep some extra open space in the image for further editing
+running OmniGen, will save result to: results/Woman in cream manteau and jeans crossing busy Tehran street_gs_2.5_im_gs_1.6.png

@@ -1,0 +1,9 @@
+ftfy
+git+https://github.com/openai/CLIP.git
+openai>=1.0
+pandas
+Pillow
+regex
+torch
+tqdm
+transformers

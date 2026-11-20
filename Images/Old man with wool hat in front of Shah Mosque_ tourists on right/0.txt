@@ -1,0 +1,7 @@
+prompt: پیرمرد با کلاه پشمی در جلوی مسجد شاه؛ گردشگران سمت راست
+captions: ['An elderly man wearing a woolen hat, sitting on a bench in a park.', 'The grand facade of Shah Mosque with its intricate tile work and towering minarets.', 'A group of tourists taking photos and exploring a historic site.']
+final retrieved paths: ['datasets/Old man with wool hat in front of Shah Mosque; tourists on right/-2783397588617426284.jpg', 'datasets/Old man with wool hat in front of Shah Mosque; tourists on right/4160432720059843637.jpg', 'datasets/Old man with wool hat in front of Shah Mosque; tourists on right/-4443253436948185714.jpg']
+prompt_w_retreival: According to these images of An elderly man wearing a woolen hat, sitting on a bench in a park.: <img><|image_1|></img>, The grand facade of Shah Mosque with its intricate tile work and towering minarets.: <img><|image_2|></img>, A group of tourists taking photos and exploring a historic site.: <img><|image_3|></img>, generate An old man with a wool hat in front of Shah Mosque; tourists on the right. for Persian culture and Architecture.
+                            Please keep some extra open space in the image for further editing
+
+running OmniGen, will save result to: results/Old man with wool hat in front of Shah Mosque; tourists on right_gs_2.5_im_gs_1.6.png

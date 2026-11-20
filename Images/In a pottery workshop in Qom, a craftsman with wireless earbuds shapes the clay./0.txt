@@ -1,0 +1,7 @@
+prompt: در کارگاه سفال‌گری قم، استادکار با هدفون بی‌سیم در گوش، مشغول شکل دادن گِل است.
+captions: ['A pottery workshop in Qom with various clay pots and tools on display.', 'A skilled potter focused on crafting a clay vase on a pottery wheel.', 'A pair of wireless headphones placed on a wooden table.', 'Hands expertly molding and shaping clay on a spinning pottery wheel.']
+final retrieved paths: ['datasets/In a pottery workshop in Qom, a craftsman with wireless earbuds shapes the clay./678155810283656879.jpg', 'datasets/In a pottery workshop in Qom, a craftsman with wireless earbuds shapes the clay./678155810283656879.jpg', 'datasets/In a pottery workshop in Qom, a craftsman with wireless earbuds shapes the clay./6317751698695240856.jpg']
+prompt_w_retreival: According to these images of A pottery workshop in Qom with various clay pots and tools on display.: <img><|image_1|></img>, A skilled potter focused on crafting a clay vase on a pottery wheel.: <img><|image_2|></img>, A pair of wireless headphones placed on a wooden table.: <img><|image_3|></img>, generate A master potter in a pottery workshop in Qom is shaping clay while wearing wireless headphones. for Persian culture and Architecture.
+                            Please keep some extra open space in the image for further editing
+
+running OmniGen, will save result to: results/In a pottery workshop in Qom, a craftsman with wireless earbuds shapes the clay._gs_2.5_im_gs_1.6.png

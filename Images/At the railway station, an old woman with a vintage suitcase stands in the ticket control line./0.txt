@@ -1,0 +1,7 @@
+prompt: در ایستگاه راه‌آهن، پیرزنی با چمدان قدیمی در صف کنترل بلیت ایستاده است.
+captions: ['A bustling train station with passengers waiting on the platform.', 'An elderly woman with a gentle smile, wearing a traditional headscarf.', 'A vintage suitcase with worn leather and brass buckles, sitting on a wooden floor.', 'A line of people waiting patiently at a ticket control booth in a busy terminal.']
+final retrieved paths: ['datasets/At the railway station, an old woman with a vintage suitcase stands in the ticket control line./-3475370720025547984.jpg', 'datasets/At the railway station, an old woman with a vintage suitcase stands in the ticket control line./-6426620668977600725.jpg', 'datasets/At the railway station, an old woman with a vintage suitcase stands in the ticket control line./6378240499846676216.jpg']
+prompt_w_retreival: According to these images of A bustling train station with passengers waiting on the platform.: <img><|image_1|></img>, An elderly woman with a gentle smile, wearing a traditional headscarf.: <img><|image_2|></img>, A vintage suitcase with worn leather and brass buckles, sitting on a wooden floor.: <img><|image_3|></img>, generate An elderly woman with an old suitcase is standing in line for ticket control at a train station. for Persian culture and Architecture.
+                            Please keep some extra open space in the image for further editing
+
+running OmniGen, will save result to: results/At the railway station, an old woman with a vintage suitcase stands in the ticket control line._gs_2.5_im_gs_1.6.png

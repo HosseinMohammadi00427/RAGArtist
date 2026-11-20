@@ -1,0 +1,7 @@
+prompt: زن با مانتوی زرد در جلوی خانه بروجردی‌ها؛ تاکسی اینترنتی در سمت راست
+captions: ['A woman wearing a yellow manteau standing in an urban setting.', 'The historic Borujerdi House with its traditional Persian architecture.', 'An internet-based taxi service vehicle parked on a city street.']
+final retrieved paths: ['datasets/Woman in yellow manteau in front of Borujerdi House; ride-hailing car on right/8406960952039884230.jpg', 'datasets/Woman in yellow manteau in front of Borujerdi House; ride-hailing car on right/-6000611340904490792.jpg', 'datasets/Woman in yellow manteau in front of Borujerdi House; ride-hailing car on right/-580166336792412291.jpg']
+prompt_w_retreival: According to these images of A woman wearing a yellow manteau standing in an urban setting.: <img><|image_1|></img>, The historic Borujerdi House with its traditional Persian architecture.: <img><|image_2|></img>, An internet-based taxi service vehicle parked on a city street.: <img><|image_3|></img>, generate A woman in a yellow coat in front of the Borujerdi House; an online taxi is on the right. for Persian culture and Architecture.
+                            Please keep some extra open space in the image for further editing
+
+running OmniGen, will save result to: results/Woman in yellow manteau in front of Borujerdi House; ride-hailing car on right_gs_2.5_im_gs_1.6.png

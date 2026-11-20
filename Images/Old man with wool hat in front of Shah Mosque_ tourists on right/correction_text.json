@@ -1,0 +1,1 @@
+[{"tool": "edit", "input": "hat cap", "edit": "a wool hat"}, {"tool": "instruction", "input": "Move all standing tourists who are left of center (x<0.5), excluding the elderly man seated on the bench, to the right side of the plaza (x in [0.7,0.95]) with non-overlapping spacing."}]

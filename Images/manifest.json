@@ -1,0 +1,235 @@
+[
+  {
+    "scene": "A carpet seller in a bazaar next to a digital pricing monitor_ monitor on the left.",
+    "images": [
+      "0.png",
+      "1.png",
+      "2.png",
+      "3.png",
+      "4.png",
+      "5.png"
+    ],
+    "masks": [
+      "1_mask.png",
+      "3_mask.png"
+    ],
+    "metadata": [
+      "0.txt",
+      "correction_text.json",
+      "detection_results.json"
+    ]
+  },
+  {
+    "scene": "A woman with colorful scarf taking a photo on Tabiat Bridge, Milad Tower visible in distance",
+    "images": [
+      "0.png",
+      "1.png",
+      "2.png",
+      "3.png",
+      "4.png",
+      "5.png"
+    ],
+    "masks": [
+      "1_mask.png",
+      "3_mask.png"
+    ],
+    "metadata": [
+      "0.txt",
+      "correction_text.json",
+      "detection_results.json"
+    ]
+  },
+  {
+    "scene": "Alley in Zanjan with brick walls, boy on the left holding a ball.",
+    "images": [
+      "0.png",
+      "2.png",
+      "3.png",
+      "4.png"
+    ],
+    "masks": [
+      "1_mask.png"
+    ],
+    "metadata": [
+      "0.txt",
+      "correction_text.json",
+      "detection_results.json"
+    ]
+  },
+  {
+    "scene": "At the railway station, an old woman with a vintage suitcase stands in the ticket control line.",
+    "images": [
+      "0.png",
+      "1.png",
+      "3.png",
+      "4.png",
+      "5.png"
+    ],
+    "masks": [
+      "2_mask.png"
+    ],
+    "metadata": [
+      "0.txt",
+      "correction_text.json",
+      "detection_results.json"
+    ]
+  },
+  {
+    "scene": "Female student with backpack near Sharif University entrance",
+    "images": [
+      "0.png",
+      "1.png",
+      "2.png",
+      "3.png"
+    ],
+    "masks": [
+      "1_mask.png"
+    ],
+    "metadata": [
+      "0.txt"
+    ]
+  },
+  {
+    "scene": "In a pottery workshop in Qom, a craftsman with wireless earbuds shapes the clay.",
+    "images": [
+      "0.png",
+      "1.png",
+      "2.png",
+      "3.png",
+      "4.png",
+      "5.png"
+    ],
+    "masks": [
+      "1_mask.png",
+      "3_mask.png"
+    ],
+    "metadata": [
+      "0.txt",
+      "correction_text.json",
+      "detection_results.json"
+    ]
+  },
+  {
+    "scene": "Man in black suit buying Iranian tea at Isfahan bazaar",
+    "images": [
+      "0.png",
+      "1.png",
+      "2.png",
+      "3.png"
+    ],
+    "masks": [
+      "1_mask.png"
+    ],
+    "metadata": [
+      "0.txt"
+    ]
+  },
+  {
+    "scene": "Man in grey suit buying carpet at Isfahan bazaar",
+    "images": [
+      "0.png",
+      "1.png"
+    ],
+    "masks": [],
+    "metadata": [
+      "0.txt"
+    ]
+  },
+  {
+    "scene": "Old man with wool hat in front of Shah Mosque_ tourists on right",
+    "images": [
+      "0.png",
+      "2.png",
+      "3.png",
+      "4.png",
+      "5.png"
+    ],
+    "masks": [
+      "1_mask.png",
+      "2_mask.png"
+    ],
+    "metadata": [
+      "0.txt",
+      "correction_text.json",
+      "detection_results.json"
+    ]
+  },
+  {
+    "scene": "Woman in cream manteau and jeans crossing busy Tehran street",
+    "images": [
+      "0.png",
+      "2.png",
+      "3.png",
+      "4.png"
+    ],
+    "masks": [
+      "1_mask.png"
+    ],
+    "metadata": [
+      "0.txt"
+    ]
+  },
+  {
+    "scene": "Woman in floral chador walking past Azadi Tower",
+    "images": [
+      "0.png",
+      "1.png",
+      "2.png",
+      "3.png"
+    ],
+    "masks": [
+      "1_mask.png"
+    ],
+    "metadata": [
+      "0.txt"
+    ]
+  },
+  {
+    "scene": "Woman in yellow manteau in front of Borujerdi House_ ride-hailing car on right",
+    "images": [
+      "0.png",
+      "1.png",
+      "2.png",
+      "3.png",
+      "4.png"
+    ],
+    "masks": [
+      "2_mask.png"
+    ],
+    "metadata": [
+      "0.txt",
+      "correction_text.json",
+      "detection_results.json"
+    ]
+  },
+  {
+    "scene": "Woman in yellow manteau on left bench of Eram Garden_ pool and palm trees in center",
+    "images": [
+      "0.png",
+      "2.png",
+      "3.png",
+      "4.png",
+      "5.png"
+    ],
+    "masks": [
+      "1_mask.png"
+    ],
+    "metadata": [
+      "0.txt",
+      "correction_text.json"
+    ]
+  },
+  {
+    "scene": "Woman with pink scarf in middle of Kerman bazaar_ carpet seller on left",
+    "images": [
+      "0.png",
+      "1.png",
+      "2.png"
+    ],
+    "masks": [],
+    "metadata": [
+      "0.txt",
+      "correction_text.json"
+    ]
+  }
+]

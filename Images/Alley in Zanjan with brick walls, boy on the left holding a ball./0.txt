@@ -1,0 +1,7 @@
+prompt: کوچه‌ای در زنجان با دیوارهای آجری، پسر بچه‌ای در سمت چپ توپ در دست دارد.
+captions: ['A narrow alleyway in Zanjan with traditional architecture.', 'Brick walls with intricate patterns and textures.', 'A young boy holding a ball in a playful stance.']
+final retrieved paths: ['datasets/Alley in Zanjan with brick walls, boy on the left holding a ball./-6484257686609114235.jpg', 'datasets/Alley in Zanjan with brick walls, boy on the left holding a ball./-8079606630858804434.jpg', 'datasets/Alley in Zanjan with brick walls, boy on the left holding a ball./3012485944163426269.jpg']
+prompt_w_retreival: According to these images of A narrow alleyway in Zanjan with traditional architecture.: <img><|image_1|></img>, Brick walls with intricate patterns and textures.: <img><|image_2|></img>, A young boy holding a ball in a playful stance.: <img><|image_3|></img>, generate A narrow street in Zanjan with brick walls, a young boy on the left holding a ball. for Persian culture and Architecture.
+                            Please keep some extra open space in the image for further editing
+
+running OmniGen, will save result to: results/Alley in Zanjan with brick walls, boy on the left holding a ball._gs_2.5_im_gs_1.6.png

@@ -1,0 +1,5 @@
+prompt: مرد با کت خاکستری در حال خرید فرش در بازار اصفهان
+captions: ['A man wearing a gray coat standing in a public space.', 'A traditional Persian carpet with intricate designs displayed on the floor.', 'A bustling market in Isfahan with various stalls and people shopping.']
+final retrieved paths: ['datasets/Man in grey suit buying carpet at Isfahan bazaar/4743800698826614393.jpg', 'datasets/Man in grey suit buying carpet at Isfahan bazaar/6224032303042099970.jpg', 'datasets/Man in grey suit buying carpet at Isfahan bazaar/-3307056834571012212.jpg']
+prompt_w_retreival: According to these images of A man wearing a gray coat standing in a public space.: <img><|image_1|></img>, A traditional Persian carpet with intricate designs displayed on the floor.: <img><|image_2|></img>, A bustling market in Isfahan with various stalls and people shopping.: <img><|image_3|></img>, generate A man in a gray coat shopping for a carpet in the Isfahan bazaar.. Please keep some extra open space in the image for further editing
+running OmniGen, will save result to: results/Man in grey suit buying carpet at Isfahan bazaar_gs_2.5_im_gs_1.6.png

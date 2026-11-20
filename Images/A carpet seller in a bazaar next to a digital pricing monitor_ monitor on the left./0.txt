@@ -1,0 +1,7 @@
+prompt: فروشنده فرش سنتی در بازار در کنار مانیتور قیمت‌گذاری دیجیتال؛ مانیتور سمت چپ.
+captions: ['A traditional carpet seller displaying a variety of colorful Persian rugs in a bustling market.', 'A vibrant and crowded marketplace filled with various stalls and vendors selling goods.', 'A digital pricing monitor displaying current prices and information in a modern retail setting.']
+final retrieved paths: ['datasets/A carpet seller in a bazaar next to a digital pricing monitor; monitor on the left./-5514129547583476878.jpg', 'datasets/A carpet seller in a bazaar next to a digital pricing monitor; monitor on the left./6004108033525865914.jpg', 'datasets/A carpet seller in a bazaar next to a digital pricing monitor; monitor on the left./454881028112976530.jpg']
+prompt_w_retreival: According to these images of A traditional carpet seller displaying a variety of colorful Persian rugs in a bustling market.: <img><|image_1|></img>, A vibrant and crowded marketplace filled with various stalls and vendors selling goods.: <img><|image_2|></img>, A digital pricing monitor displaying current prices and information in a modern retail setting.: <img><|image_3|></img>, generate A traditional carpet seller in a market next to a digital pricing monitor; the monitor is on the left. for Persian culture and Architecture.
+                            Please keep some extra open space in the image for further editing
+
+running OmniGen, will save result to: results/A carpet seller in a bazaar next to a digital pricing monitor; monitor on the left._gs_2.5_im_gs_1.6.png
